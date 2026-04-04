@@ -9,5 +9,5 @@ spec:
     app: playground
   ports:
     - protocol: TCP
-      port: 5000
-      targetPort: 5000
+      port: 8088
+      targetPort: 8088
